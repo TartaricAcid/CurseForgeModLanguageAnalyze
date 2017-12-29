@@ -30,14 +30,14 @@ do
 done
 
 i=0
-for line in `cut -f1 -d "|" ${MAIN}/country.md | egrep -o "\w{1,}"`
+for line in `cut -f1 -d "|" ${MAIN}/country.md | egrep -o "\w{0,}"`
 do
   id[${i}]=${line}
   i=`expr ${i} + 1`
 done
 
 i=0
-for line in `cut -f2 -d "|" ${MAIN}/country.md | egrep -o "\w{1,}"`
+for line in `cut -f2 -d "|" ${MAIN}/country.md | egrep -o "\w{0,}"`
 do
   name[${i}]=${line}
   i=`expr ${i} + 1`

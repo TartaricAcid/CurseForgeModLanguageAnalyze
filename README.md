@@ -1,0 +1,198 @@
+# 一个实验练习项目
+
+目的是打算统计下curse上热门模组的翻译情况 目前暂定为1.7.10版本，curse下载量前25页的所有mods，总计191个模组
+
+   大小    |     下载时间     |                   模组名称
+:------: | :----------: | :--------------------------------------:
+1774429  | 12月29日 21:58 |            actually-additions
+1453732  | 12月29日 22:01 |           advanced-generators
+ 501229  | 12月29日 21:58 |                ae2-stuff
+1156745  | 12月29日 21:58 |                agricraft
+ 211318  | 12月29日 22:00 |        another-one-bites-the-dust
+ 106310  | 12月29日 21:57 |                applecore
+2924325  | 12月29日 21:56 |          applied-energistics-2
+ 159243  | 12月29日 21:57 |              aroma1997core
+ 86550   | 12月29日 21:59 |       aroma1997s-dimensional-world
+ 51332   | 12月29日 22:02 |               aromabackup
+6567165  | 12月29日 22:04 |                 automagy
+ 27245   | 12月29日 22:00 |               autopackager
+ 949936  | 12月29日 22:04 |                 avaritia
+ 93167   | 12月29日 22:01 |                bagginses
+ 95415   | 12月29日 21:56 |                 baubles
+1503184  | 12月29日 21:56 |                  bdlib
+ 59896   | 12月29日 21:57 |          better-builders-wands
+ 63223   | 12月29日 21:59 |                betterfps
+5452316  | 12月29日 21:56 |               bibliocraft
+ 353943  | 12月29日 22:03 | bibliocraft-bibliowoods-forestry-edition
+ 241857  | 12月29日 21:59 |  bibliocraft-bibliowoods-natura-edition
+4562769  | 12月29日 22:02 |               binnies-mods
+5755198  | 12月29日 21:57 |             biomes-o-plenty
+ 284563  | 12月29日 22:03 |               biometweaker
+9198412  | 12月29日 21:56 |               blood-magic
+ 230589  | 12月29日 21:58 |                bookshelf
+15977344 | 12月29日 21:56 |                 botania
+  8868   | 12月29日 22:03 |         botania-garden-of-glass
+ 92269   | 12月29日 21:57 |              brandons-core
+2705733  | 12月29日 21:58 |                buildcraft
+ 259292  | 12月29日 22:02 |            buildcraft-compat
+ 510164  | 12月29日 21:57 |            carpenters-blocks
+ 840800  | 12月29日 21:59 |               chance-cubes
+ 43346   | 12月29日 21:59 |            chest-transporter
+ 106701  | 12月29日 22:00 |              chickenchunks
+6378920  | 12月29日 21:55 |                  chisel
+ 145782  | 12月29日 21:57 |             codechickencore
+1230511  | 12月29日 21:55 |                 cofhcore
+ 305688  | 12月29日 21:58 |                 cofh-lib
+ 60738   | 12月29日 22:03 |              compact-solars
+1397415  | 12月29日 21:58 |              computercraft
+ 17486   | 12月29日 22:02 |               controlling
+ 250664  | 12月29日 21:57 |          cooking-for-blockheads
+ 911030  | 12月29日 21:57 |               crafttweaker
+ 115292  | 12月29日 21:55 |             custom-main-menu
+9007920  | 12月29日 22:00 |               custom-npcs
+13365882 | 12月29日 21:56 |                decocraft2
+ 742381  | 12月29日 22:01 |              deep-resonance
+ 34518   | 12月29日 22:00 |             default-options
+ 60626   | 12月29日 21:59 |                dense-ores
+4874507  | 12月29日 21:57 |            draconic-evolution
+ 297928  | 12月29日 22:00 |                 eleccore
+ 102858  | 12月29日 22:03 |             enchanting-plus
+ 467824  | 12月29日 21:56 |                endercore
+4756103  | 12月29日 21:56 |                 ender-io
+ 145063  | 12月29日 21:58 |              ender-storage
+ 724840  | 12月29日 22:00 |                endertech
+ 351928  | 12月29日 22:01 |                ender-zoo
+ 398521  | 12月29日 22:03 |              ex-compressum
+ 431480  | 12月29日 22:01 |                ex-nihilo
+ 20587   | 12月29日 22:04 |             experience-rings
+1481351  | 12月29日 21:59 |               extracells2
+11557124 | 12月29日 21:58 |                 extratic
+2149827  | 12月29日 21:55 |             extra-utilities
+ 182657  | 12月29日 22:00 |                fastcraft
+  7079   | 12月29日 21:58 |             fast-leaf-decay
+ 647020  | 12月29日 22:01 |             forbidden-magic
+3322286  | 12月29日 21:56 |                 forestry
+ 667443  | 12月29日 21:56 |                  ftblib
+ 315302  | 12月29日 21:56 |              ftb-utilities
+ 160283  | 12月29日 22:01 |             funky-locomotion
+1918268  | 12月29日 21:58 |                gendustry
+ 71108   | 12月29日 21:58 |              gravestone-mod
+ 200078  | 12月29日 21:57 |                guide-api
+1435528  | 12月29日 21:59 |          hardcore-questing-mode
+ 283132  | 12月29日 22:01 |                   hats
+ 32401   | 12月29日 22:04 |                hat-stand
+ 306908  | 12月29日 21:59 |                headcrumbs
+ 47065   | 12月29日 22:01 |               hopper-ducts
+ 213084  | 12月29日 21:57 |                ichunutil
+ 427425  | 12月29日 21:59 |          iguanas-tinker-tweaks
+3610468  | 12月29日 21:56 |          immersive-engineering
+ 302059  | 12月29日 22:03 |          immersive-integration
+5633941  | 12月29日 21:58 |             industrial-craft
+ 330346  | 12月29日 21:59 |             ingame-info-xml
+ 126448  | 12月29日 21:58 |                inpurecore
+6044210  | 12月29日 22:04 |              inventory-pets
+ 224461  | 12月29日 21:55 |             inventory-tweaks
+ 354672  | 12月29日 21:59 |              iron-backpacks
+ 158104  | 12月29日 21:55 |               iron-chests
+ 445166  | 12月29日 21:57 |                  jabba
+1731255  | 12月29日 21:55 |                journeymap
+  7683   | 12月29日 21:59 |                kleeslabs
+ 771916  | 12月29日 22:03 |                 llibrary
+3250639  | 12月29日 22:03 |             logistics-pipes
+ 186439  | 12月29日 22:00 |                 lootbags
+ 57644   | 12月29日 21:58 |              lunatriuscore
+ 978885  | 12月29日 22:01 |                magic-bees
+ 648081  | 12月29日 21:59 |               malisiscore
+1645689  | 12月29日 21:58 |               malisisdoors
+ 202458  | 12月29日 21:55 |                  mantle
+1087107  | 12月29日 22:00 |             mb-battlegear-2
+ 187881  | 12月29日 21:56 |                 mcjtylib
+ 38759   | 12月29日 22:00 |                mercurius
+3279533  | 12月29日 22:04 |        minecraft-comes-alive-mca
+1756014  | 12月29日 21:57 |           minefactory-reloaded
+ 927376  | 12月29日 21:59 |               minetweaker3
+ 33495   | 12月29日 22:03 |         minetweaker-recipemaker
+ 26048   | 12月29日 22:04 |               mmmmmmmmmmmm
+ 572698  | 12月29日 21:56 |                modtweaker
+ 18767   | 12月29日 21:56 |                 morpheus
+ 51898   | 12月29日 21:57 |               mouse-tweaks
+ 152571  | 12月29日 22:00 |                 mputils
+ 13623   | 12月29日 22:00 |           mputils-basic-tools
+1728686  | 12月29日 22:05 |         mrcrayfish-furniture-mod
+ 891845  | 12月29日 21:56 |                  natura
+ 10339   | 12月29日 22:03 |                   neat
+ 101777  | 12月29日 21:57 |                nei-addons
+ 197046  | 12月29日 21:57 |             nei-integration
+ 79708   | 12月29日 21:59 |                netherores
+  6232   | 12月29日 22:02 |             netherportalfix
+ 513136  | 12月29日 21:56 |              notenoughitems
+ 118706  | 12月29日 22:01 |             not-enough-wands
+2799187  | 12月29日 21:57 |                openblocks
+14849582 | 12月29日 21:58 |              opencomputers
+2259572  | 12月29日 21:57 |               openmodslib
+ 998274  | 12月29日 22:02 |            openmodularturrets
+ 449500  | 12月29日 22:04 |           openperipheraladdons
+ 425876  | 12月29日 22:04 |            openperipheralcore
+ 272855  | 12月29日 22:04 |        openperipheralintegration
+ 177440  | 12月29日 22:03 |              ore-excavation
+ 23853   | 12月29日 22:03 |            p455w0rds-library
+2482753  | 12月29日 21:55 |            pams-harvestcraft
+ 471801  | 12月29日 22:04 |                platforms
+ 626478  | 12月29日 22:00 |                portal-gun
+ 342892  | 12月29日 22:01 |    progressive-automation-early-miner
+1380486  | 12月29日 22:03 |                 projecte
+1432027  | 12月29日 21:58 |             project-red-base
+ 84757   | 12月29日 22:00 |            project-red-compat
+3913048  | 12月29日 21:59 |         project-red-integration
+ 633621  | 12月29日 21:59 |           project-red-lighting
+2118480  | 12月29日 22:00 |          project-red-mechanical
+ 478879  | 12月29日 21:59 |            project-red-world
+ 129481  | 12月29日 22:00 |              quantumstorage
+3742396  | 12月29日 21:56 |                railcraft
+2818840  | 12月29日 21:57 |              random-things
+ 147116  | 12月29日 21:58 |                reborncore
+ 318347  | 12月29日 21:57 |             redstone-arsenal
+ 77877   | 12月29日 22:04 |              redstone-paste
+ 692778  | 12月29日 22:00 |              reliquary-v1-3
+ 13037   | 12月29日 21:55 |             resource-loader
+3393513  | 12月29日 21:56 |                 rftools
+ 593789  | 12月29日 22:02 |            roguelike-dungeons
+ 31072   | 12月29日 21:59 |                 shadowmc
+ 257164  | 12月29日 21:59 |              shetiphiancore
+ 124515  | 12月29日 22:02 |           simple-achievements
+ 24970   | 12月29日 22:01 |               simplelabels
+ 608053  | 12月29日 21:58 |             simply-jetpacks
+ 12207   | 12月29日 22:01 |                   snad
+ 174707  | 12月29日 22:02 |                solar-flux
+ 321931  | 12月29日 22:01 |                sonar-core
+ 174943  | 12月29日 22:03 |         soul-shards-the-old-ways
+ 16873   | 12月29日 22:04 |            startinginventory
+ 228001  | 12月29日 22:05 |             steves-workshop
+ 589456  | 12月29日 21:55 |             storage-drawers
+ 96184   | 12月29日 22:03 |       storage-drawers-natura-pack
+ 89875   | 12月29日 22:03 |           super-crafting-frame
+1364311  | 12月29日 22:04 |                techreborn
+12565807 | 12月29日 21:58 |                thaumcraft
+ 68794   | 12月29日 22:00 |          thaumcraft-nei-plugin
+1672811  | 12月29日 22:02 |           thaumic-energistics
+ 632485  | 12月29日 21:57 |             thermal-dynamics
+2614932  | 12月29日 21:56 |             thermalexpansion
+2316321  | 12月29日 21:56 |            thermal-foundation
+ 195269  | 12月29日 22:04 |            the-spice-of-life
+3682125  | 12月29日 21:59 |           the-twilight-forest
+ 52002   | 12月29日 21:57 |               tic-tooltips
+5601409  | 12月29日 21:55 |            tinkers-construct
+ 221769  | 12月29日 22:01 |            tinkers-mechworks
+ 161165  | 12月29日 22:01 |              translocators
+ 152787  | 12月29日 21:59 |                 unidict
+ 119475  | 12月29日 21:59 |                veinminer
+ 597177  | 12月29日 22:02 |                 voxelmap
+ 544821  | 12月29日 21:56 |                  waila
+ 28800   | 12月29日 21:56 |           waila-harvestability
+ 77506   | 12月29日 22:01 |              waila-plugins
+ 60225   | 12月29日 22:00 |                wanionlib
+ 73037   | 12月29日 21:57 |       wawla-what-are-we-looking-at
+ 398765  | 12月29日 22:03 |        wireless-crafting-terminal
+7009956  | 12月29日 21:59 |                 witchery
+1461467  | 12月29日 22:04 |                worldedit
+ 352856  | 12月29日 22:02 |             wr-cbe-universal
